@@ -8,7 +8,13 @@ Hi 👋 My name is sanjaya prasad
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SanjayaRajapaksha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaya-prasad-39181a241) 
+
+   <a href="[https://www.linkedin.com/in/dammika-rajapaksha-5a53751ba](https://linkedin.com/in/sanjaya-prasad-39181a241)/"><img align="left" alt="codeSTACKr | LinkedIn" width="29px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+    <a href="[https://www.facebook.com/](https://facebook.com/SanjayaRajapaksha)"><img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://i.ibb.co/z4ZQTmz/fe0ab67fa0de2b2681602db5708a076f50dd21106e0c2d38b9661875a37e235e-200.jpg" /></a>  
+    
+ <a href="dammikapadmasiri123.medium.com"><img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://i.ibb.co/PhsGSzb/unnamed.png" /></a>  
+ 
+   <a href="https://www.hackerrank.com/rapd96?hr_r=1"><img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://i.ibb.co/WWkmJdP/Hacker-Rank-Icon-1000px.png" /></a>   
 <a href="https://stackoverflow.com/users/24546281/sanjaya-prasad"><img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://i.ibb.co/GkH8ss6/apple-touch-icon-2.png" /></a>  
 
 # 💻 Tech Stack:

@@ -3,7 +3,7 @@ Hi 👋 My name is sanjaya prasad
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [sanjayaprasad823@gmail.com](mailto:sanjayaprasad823@gmail.com)
-* 🧠  I'm learning MERN Stack,MEAN Stack
+* 🧠  I'm learning MERN Stack & MEAN Stack
 * 🤝  I'm open to collaborating on interesting project
 
 

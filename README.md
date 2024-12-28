@@ -22,8 +22,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SanjayaPrasadRajapaksha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### Badges
-
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/SanjayaPrasadRajapaksha"><img src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="SanjayaPrasadRajapaksha's GitHub stats" /></a>

@@ -40,8 +40,9 @@
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="Spring Boot" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="36" height="36" alt="Spring Boot" />
 </a>
+
 
 </p>
 

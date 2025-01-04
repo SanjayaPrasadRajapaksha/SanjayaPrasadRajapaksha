@@ -43,6 +43,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Firebase_Logo.png" width="36" height="36" alt="Firebase" /></a>
 <a href="https://cpanel.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cpanel_logo_2019.svg" width="36" height="36" alt="CPanel" /></a>
 <a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="36" height="36" alt="GitHub" /></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Postman_Logo.png" width="36" height="36" alt="Postman" /></a>
 </p>
 
 ### Databases

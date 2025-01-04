@@ -39,6 +39,10 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://cloudinary.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Cloudinary_logo.svg" width="36" height="36" alt="Cloudinary" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Firebase_Logo.png" width="36" height="36" alt="Firebase" /></a>
+<a href="https://cpanel.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cpanel_logo_2019.svg" width="36" height="36" alt="CPanel" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="36" height="36" alt="GitHub" /></a>
 </p>
 
 ### Databases

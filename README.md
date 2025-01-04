@@ -4,7 +4,13 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Spring+Boot+Enthusiast;Passionate+About+Technology;Open+to+Collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Enthusiast;Spring+Boot+Learner;Passionate+About+Technology;Open+to+Collaborations!" alt="Typing SVG" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" alt="Developer Animation" />
 </div>
 
 ---
@@ -44,8 +50,8 @@
 ---
 
 ## 🌟 Certifications
-- **Comprehensive Master Java Developer** – IJSE
-- **Full Stack Web Development** – Udemy (Ongoing)
+- **Comprehensive Master Java Developer** – IJSE  
+- **Full Stack Web Development** – Udemy (Ongoing)  
 
 ---
 

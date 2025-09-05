@@ -73,8 +73,9 @@
 
 ## 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true" alt="SanjayaPrasadRajapaksha's GitHub stats" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&langs_count=10&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </p>
 

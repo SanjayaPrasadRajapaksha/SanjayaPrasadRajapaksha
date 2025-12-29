@@ -1,107 +1,193 @@
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="60" alt="Wave Hello"/> I'm Sanjaya Prasad
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sanjaya+Prasad;Full+Stack+Developer;MERN+%26+MEAN+Stack+Enthusiast;Building+Scalable+Applications)</div>
 
+<div align="center">
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaya-prasad-39181a241)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjayaprasad823@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sanjayaprasad823)
+
+</div>
 
 ---
 
-### 🌍 Based in Sri Lanka  
-### ✉️ [sanjayaprasad823@gmail.com](mailto:sanjayaprasad823@gmail.com)  
-### 🧠 Currently Learning: MERN & MEAN Stack  
-### 🤝 Open to Collaboration on Exciting Projects
+## 👨‍💻 About Me
+
+```typescript
+const sanjaya = {
+    location: "Sri Lanka 🇱🇰",
+    role: "Full Stack Developer",
+    currentFocus: ["MERN Stack", "MEAN Stack", "Cloud Architecture"],
+    lifePhilosophy: "Code is poetry, and I'm a passionate poet! 🚀",
+    openTo: ["Collaborations", "Freelance Projects", "Open Source"],
+    languages: ["JavaScript", "TypeScript", "Java", "Python", "C#"],
+    askMeAbout: ["Web Development", "API Design", "Database Optimization"]
+};
+```
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🎯 Current Focus
+- 🔭 Building scalable full-stack applications
+- 🌱 Mastering **MERN & MEAN** stack technologies
+- 💡 Exploring **Cloud Technologies** & **DevOps**
+- 🤝 Open to collaborate on **innovative projects**
+- 📫 Reach me at **sanjayaprasad823@gmail.com**
+
+<br clear="right"/>
 
 ---
 
-## 🚀 Technologies & Tools
+## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="40" alt="C#" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" alt="PHP" />
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="40" alt="Material UI" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" alt="Angular" />
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" alt="NodeJS" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="40" alt="Express" />
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" alt="Spring Boot" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" alt="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-  <!-- DevOps & Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" alt="Postman" />
-</p>
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🚀 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaPrasadRajapaksha&theme=tokyonight&hide_border=true&background=0d1117"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayaPrasadRajapaksha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaPrasadRajapaksha&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+### 🛒 Point of Sale System
+[![POS](https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Point_Of_Sale_System-SpringBoot-React&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/SanjayaPrasadRajapaksha/Point_Of_Sale_System-SpringBoot-React)
+
+**Tech Stack:** Spring Boot · React · MySQL · REST API
+
+---
+
+### 📚 Book Store Application
+[![BookStore](https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Book-Store-App-MERN&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/SanjayaPrasadRajapaksha/Book-Store-App-MERN)
+
+**Tech Stack:** MongoDB · Express · React · Node.js
+
+---
+
+### 🏨 Hotel Management System
+[![Hotel](https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Hotel_Managemen_System-OOP-Layered&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/SanjayaPrasadRajapaksha/Hotel_Managemen_System-OOP-Layered)
+
+**Tech Stack:** Java · Layered Architecture · OOP Principles
+
+---
+
+### 💬 Real-time Chat Application
+[![Chat](https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Chat-App-MERN&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/SanjayaPrasadRajapaksha/Chat-App-MERN)
+
+**Tech Stack:** MERN Stack · Socket.io · Real-time Communication
+
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.facebook.com/sanjayaprasad" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" alt="Facebook"/></a>
-  <a href="https://github.com/SanjayaPrasadRajapaksha" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/sanjaya-prasad-39181a241" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" alt="LinkedIn"/></a>
-  <a href="http://www.medium.com/@sanjayaprasad823" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" alt="Medium"/></a>
-  <a href="https://www.stackoverflow.com/users/24546281/sanjaya-prasad" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" alt="StackOverflow"/></a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaPrasadRajapaksha&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true" alt="SanjayaPrasadRajapaksha's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&langs_count=10&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</p>
-
----
-
-## 📂 Top Repositories
-
 <div align="center">
-  <a href="https://github.com/SanjayaPrasadRajapaksha/Point_Of_Sale_System-SpringBoot-React">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Point_Of_Sale_System-SpringBoot-React&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/SanjayaPrasadRajapaksha/Book-Store-App-MERN">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Book-Store-App-MERN&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/SanjayaPrasadRajapaksha/Hotel_Managemen_System-OOP-Layered">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Hotel_Managemen_System-OOP-Layered&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/SanjayaPrasadRajapaksha/Chat-App-MERN">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Chat-App-MERN&title_color=22c55e&text_color=3382ed&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" />
-  </a>
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sanjayaprasad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaya-prasad-39181a241)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@sanjayaprasad823)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/24546281/sanjaya-prasad)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayaPrasadRajapaksha)
+
 </div>
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 Professional Summary
 
-<img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting me!" />
+<div align="center">
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat();
+}
+```
+
+</div>
+
+<div align="center">
+  
+### 💡 "Turning ideas into elegant code, one commit at a time"
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=SanjayaPrasadRajapaksha&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+
+### ⭐ Show some love by starring my repositories!
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontAlignY=70&animation=twinkling"/>
+</div>

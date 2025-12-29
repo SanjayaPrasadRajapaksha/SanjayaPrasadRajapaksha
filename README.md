@@ -1,37 +1,45 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,100:80DEEA&height=200&section=header&text=Sanjaya%20Prasad&fontSize=60&fontColor=00695C&animation=fadeIn&fontAlignY=35" />
+  <h1>Sanjaya Prasad</h1>
+  <p><em>Full-Stack Developer | Problem Solver | Open Source Enthusiast</em></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/sanjaya-prasad-39181a241" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sanjayaprasad823@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://medium.com/@sanjayaprasad823" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="https://stackoverflow.com/users/24546281/sanjaya-prasad" target="_blank">
+      <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+    </a>
+  </p>
+
+  <p>
+    <em>Building scalable web applications, delivering clean and maintainable code, and contributing to impactful projects.</em>
+  </p>
 </div>
 
-<p align="center">
-  <em>Full Stack Developer | Software Engineering Student</em>
-</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sanjaya-prasad-39181a241"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sanjayaprasad823@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://medium.com/@sanjayaprasad823"><img src="https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/24546281/sanjaya-prasad"><img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white"/></a>
-</p>
+## 👋 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjayaPrasadRajapaksha&style=flat-square&color=teal" alt="Profile Views" />
-</p>
+I’m **Sanjaya Prasad**, a passionate **Full-Stack Developer** based in **Sri Lanka** 🇱🇰.  
+I love creating seamless user experiences, designing reliable backends, and turning ideas into real products.
 
-<br/>
+I focus on writing **clean, maintainable code** and constantly improving through collaboration and learning.
 
-## 👋 Hello There!
+---
 
-I'm Sanjaya, a passionate **Full Stack Developer** based in **Sri Lanka** 🇱🇰. I love building elegant solutions to complex problems and enjoy learning new technologies.
+## 🌱 Currently
 
-### 🌱 What I'm Up To
+- 🔭 Developing full-stack web applications  
+- 📚 Enhancing skills in MERN & MEAN stacks  
+- ☁️ Learning cloud deployment & DevOps practices  
+- 🤝 Open to collaborating on innovative projects
 
-- 🔭 Working on full-stack web applications
-- 📚 Learning MERN & MEAN stack technologies
-- 💡 Exploring cloud platforms and modern DevOps practices
-- 🤝 Open to collaborating on interesting projects
-
-<br/>
-
+---
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -48,7 +56,7 @@ I'm Sanjaya, a passionate **Full Stack Developer** based in **Sri Lanka** 🇱�
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=mui&logoColor=white)
+![Material UI](https://img.shields.io/badge/-MUI-0081CB?style=flat-square&logo=mui&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -80,31 +88,17 @@ I'm Sanjaya, a passionate **Full Stack Developer** based in **Sri Lanka** 🇱�
 
 <br/>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&theme=calm&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&layout=compact&theme=calm&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaPrasadRajapaksha&theme=calm&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <br/>
 
-## 📫 Get In Touch
+## 📫 Get in Touch
 
 <p align="center">
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to connect!
+I’m always happy to connect — whether it’s about collaboration, opportunities, or sharing ideas.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjaya-prasad-39181a241">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:sanjayaprasad823@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -114,6 +108,3 @@ Feel free to reach out if you want to collaborate on a project, need help with s
   <em>⭐ Thanks for visiting! Have a great day! ⭐</em>
 </p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0F7FA,100:80DEEA&height=120&section=footer" />
-</div>

@@ -60,69 +60,10 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaPrasadRajapaksha&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaPrasadRajapaksha&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Point_Of_Sale_System-SpringBoot-React&theme=radical&hide_border=true" />
-      <br><br>
-      <strong>Point of Sale System</strong>
-      <br>
-      Spring Boot • React • MySQL
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Book-Store-App-MERN&theme=radical&hide_border=true" />
-      <br><br>
-      <strong>Book Store Application</strong>
-      <br>
-      MERN Stack
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Hotel_Managemen_System-OOP-Layered&theme=radical&hide_border=true" />
-      <br><br>
-      <strong>Hotel Management System</strong>
-      <br>
-      Java • OOP • Layered Architecture
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Chat-App-MERN&theme=radical&hide_border=true" />
-      <br><br>
-      <strong>Real-time Chat Application</strong>
-      <br>
-      MERN Stack • Socket.io
-    </td>
-  </tr>
-</table>
 
 ---
 

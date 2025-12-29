@@ -1,105 +1,157 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sanjaya%20Prasad&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Passionate+About+Clean+Code+%26+System+Design;Always+Learning+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
-</div>
+<h1 align="center">Hi 👋, I'm Sanjaya Prasad</h1>
+<h3 align="center">Full Stack Developer | MERN & MEAN Stack Specialist</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanjaya-prasad-39181a241"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sanjayaprasad823@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://medium.com/@sanjayaprasad823"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/24546281/sanjaya-prasad"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SanjayaPrasadRajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-```yaml
-name: Sanjaya Prasad Rajapaksha
-role: Full Stack Developer
-location: Sri Lanka 🇱🇰
-
-focus:
-  - building scalable web applications
-  - improving backend architecture
-  - learning modern cloud & DevOps practices
-
-interests:
-  - web development
-  - cloud & DevOps
-  - open source collaboration
-
-goals_2025:
-  - contribute to open-source
-  - build SaaS products
-  - master system design
-```
+- 🌍 I'm based in **Sri Lanka**
+- 💼 Working as a **Full Stack Developer**
+- 🔭 Currently learning **MERN & MEAN Stack**
+- 💡 Passionate about building **scalable web applications**
+- 🤝 Open to **collaborate on innovative projects**
+- 📫 Reach me at **sanjayaprasad823@gmail.com**
+- ⚡ Fun fact: **I turn coffee into code!**
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Stack
 
-**Languages:** JavaScript, TypeScript, Java, Python, C#, PHP, SQL  
-**Frontend:** React, Next.js, Angular, Redux, Tailwind, Bootstrap  
-**Backend:** Node.js, Express, Spring Boot, Firebase, REST APIs, GraphQL  
-**Databases:** MongoDB, MySQL, PostgreSQL, Redis  
-**DevOps & Tools:** Git, GitHub, Docker, Kubernetes, Linux, Postman, VS Code, Figma
+**Languages:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend:**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Material--UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Databases:**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Tools & DevOps:**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## ✨ What I’m Doing Now
-
-- 🔨 Working on **full-stack web applications**
-- 🌱 Improving my skills in **cloud & microservices**
-- 🤝 Open to collaborating on **interesting projects**
-- 📝 Writing tech content on Medium
-- ⚡ Fun fact: *Console.log() still saves my day 😄*
-
----
-
-## 📈 GitHub Insights
+### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaPrasadRajapaksha&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaPrasadRajapaksha&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
-## ⭐ Featured Projects
+### 🏆 GitHub Trophies
 
-| Project | Description |
-|--------|-------------|
-| **Point of Sale System** | Spring Boot + React + MySQL — inventory & billing management |
-| **Book Store App (MERN)** | Complete CRUD bookstore application |
-| **Hotel Management System** | Java OOP layered architecture |
-| **Real-time Chat App** | MERN + Socket.io messaging platform |
-
-👉 Explore more on my repositories!
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaPrasadRajapaksha&theme=radical&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
-## ✍️ Blog
+### 🌟 Featured Projects
 
-- Coming soon on **Medium**
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Point_Of_Sale_System-SpringBoot-React&theme=radical&hide_border=true" />
+      <br><br>
+      <strong>Point of Sale System</strong>
+      <br>
+      Spring Boot • React • MySQL
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Book-Store-App-MERN&theme=radical&hide_border=true" />
+      <br><br>
+      <strong>Book Store Application</strong>
+      <br>
+      MERN Stack
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Hotel_Managemen_System-OOP-Layered&theme=radical&hide_border=true" />
+      <br><br>
+      <strong>Hotel Management System</strong>
+      <br>
+      Java • OOP • Layered Architecture
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Chat-App-MERN&theme=radical&hide_border=true" />
+      <br><br>
+      <strong>Real-time Chat Application</strong>
+      <br>
+      MERN Stack • Socket.io
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🤝 Let’s Connect
+### 🌐 Connect With Me
 
-If you’d like to collaborate, discuss ideas, or talk tech — feel free to reach out!
-
-📩 **sanjayaprasad823@gmail.com**
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjaya-prasad-39181a241">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sanjayaprasad823@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sanjayaprasad823">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/24546281/sanjaya-prasad">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/sanjayaprasad">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  
-Thanks for visiting — keep coding 🚀
+<p align="center">
+  <em>⭐ Show some love by starring my repositories!</em>
+</p>
 
-</div>
+<p align="center">
+  <strong>Thanks for visiting! 😊</strong>
+</p>

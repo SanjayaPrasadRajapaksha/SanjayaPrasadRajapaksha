@@ -23,12 +23,6 @@
 </div>
 
 
-## 👋 About Me
-
-I’m **Sanjaya Prasad**, a passionate **Full-Stack Developer** based in **Sri Lanka** 🇱🇰.  
-I love creating seamless user experiences, designing reliable backends, and turning ideas into real products.
-
-I focus on writing **clean, maintainable code** and constantly improving through collaboration and learning.
 
 ---
 

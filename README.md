@@ -85,97 +85,85 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaPrasadRajapaksha&theme=radical" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjayaPrasadRajapaksha&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayaPrasadRajapaksha&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&layout=compact&theme=radical&langs_count=8" alt="Top Languages"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayaPrasadRajapaksha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaPrasadRajapaksha&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SanjayaPrasadRajapaksha&theme=radical&no-frame=true&no-bg=false&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
 ---
 
 ## 🌟 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🛒 Point of Sale System</h3>
-        <div align="center">  
-          <a href="https://github.com/SanjayaPrasadRajapaksha/Point_Of_Sale_System-SpringBoot-React" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Point_Of_Sale_System-SpringBoot-React&theme=radical" alt="POS System"/>
-          </a>
-          <p><strong>Spring Boot • React • MySQL • REST API</strong></p>
-          <p>Full-featured point of sale system with inventory management</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">📚 Book Store Application</h3>
-        <div align="center">
-          <a href="https://github.com/SanjayaPrasadRajapaksha/Book-Store-App-MERN" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Book-Store-App-MERN&theme=radical" alt="Book Store"/>
-          </a>
-          <p><strong>MongoDB • Express • React • Node.js</strong></p>
-          <p>Complete MERN stack bookstore with CRUD operations</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🏨 Hotel Management System</h3>
-        <div align="center">
-          <a href="https://github.com/SanjayaPrasadRajapaksha/Hotel_Managemen_System-OOP-Layered" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Hotel_Managemen_System-OOP-Layered&theme=radical" alt="Hotel Management"/>
-          </a>
-          <p><strong>Java • Layered Architecture • OOP</strong></p>
-          <p>Enterprise-level hotel management with layered design</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💬 Real-time Chat App</h3>
-        <div align="center">
-          <a href="https://github.com/SanjayaPrasadRajapaksha/Chat-App-MERN" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Chat-App-MERN&theme=radical" alt="Chat App"/>
-          </a>
-          <p><strong>MERN Stack • Socket.io • WebRTC</strong></p>
-          <p>Real-time messaging application with live updates</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛒 Point of Sale System</h3>
+      <a href="https://github.com/SanjayaPrasadRajapaksha/Point_Of_Sale_System-SpringBoot-React">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Point_Of_Sale_System-SpringBoot-React&theme=radical&hide_border=true" alt="POS System"/>
+      </a>
+      <p><strong>Spring Boot • React • MySQL • REST API</strong></p>
+      <p>Full-featured point of sale system with inventory management</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>📚 Book Store Application</h3>
+      <a href="https://github.com/SanjayaPrasadRajapaksha/Book-Store-App-MERN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Book-Store-App-MERN&theme=radical&hide_border=true" alt="Book Store"/>
+      </a>
+      <p><strong>MongoDB • Express • React • Node.js</strong></p>
+      <p>Complete MERN stack bookstore with CRUD operations</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🏨 Hotel Management System</h3>
+      <a href="https://github.com/SanjayaPrasadRajapaksha/Hotel_Managemen_System-OOP-Layered">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Hotel_Managemen_System-OOP-Layered&theme=radical&hide_border=true" alt="Hotel Management"/>
+      </a>
+      <p><strong>Java • Layered Architecture • OOP</strong></p>
+      <p>Enterprise-level hotel management with layered design</p>
+    </td>
+    <td width="50%" align="center">
+      <h3>💬 Real-time Chat App</h3>
+      <a href="https://github.com/SanjayaPrasadRajapaksha/Chat-App-MERN">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SanjayaPrasadRajapaksha&repo=Chat-App-MERN&theme=radical&hide_border=true" alt="Chat App"/>
+      </a>
+      <p><strong>MERN Stack • Socket.io • WebRTC</strong></p>
+      <p>Real-time messaging application with live updates</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayaPrasadRajapaksha&theme=radical&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjayaPrasadRajapaksha&theme=radical&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/sanjayaprasad)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaya-prasad-39181a241)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@sanjayaprasad823)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://www.stackoverflow.com/users/24546281/sanjaya-prasad)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SanjayaPrasadRajapaksha)
-
-</div>
+<p align="center">
+  <a href="https://www.facebook.com/sanjayaprasad"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://www.linkedin.com/in/sanjaya-prasad-39181a241"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="http://www.medium.com/@sanjayaprasad823"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.stackoverflow.com/users/24546281/sanjaya-prasad"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
+  <a href="https://github.com/SanjayaPrasadRajapaksha"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
@@ -201,12 +189,12 @@ const developer = {
 
 ### ⭐ Show some love by starring my repositories!
 
+**Thanks for visiting my profile! Have a great day! 👋**
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting!"/>
-  
-  **Thanks for visiting my profile! Have a great day! 👋**
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" alt="Thanks for visiting!" width="100%"/>
 </div>
